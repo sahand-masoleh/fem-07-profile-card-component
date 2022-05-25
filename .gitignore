@@ -16,6 +16,7 @@
 
 .prettierignore
 
+/.gitignore
 /design/
 /README-template.md
 /README.md
