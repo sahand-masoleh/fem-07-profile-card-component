@@ -83,11 +83,11 @@ h1 span {
 /* ids */
 
 #bg-circle-1 {
-	transform: translate(-50%, -50%);
+	transform: translate(-50%, -75%);
 }
 
 #bg-circle-2 {
-	transform: translate(50%, 50%);
+	transform: translate(50%, 20%);
 }
 
 #cover-container {
